@@ -1,5 +1,5 @@
 FROM tutum/nginx
-MAINTAINER Feng Honglin <hfeng@tutum.co>
+MAINTAINER Avi Stramer <avi@testable.io>
 
 ENV GRAFANA_VERSION 1.9.0
 
